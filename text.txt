@@ -1,0 +1,11 @@
+<p>
+                                                <a 
+                                                    class="btn btn-primary btn-learn" 
+                                                    href="./my-cv.pdf" 
+                                                    download="Mohammad_CV" 
+                                                    role="button" 
+                                                    aria-label="Download CV"
+                                                >
+                                                    Download CV <i class="icon-download4"></i>
+                                                </a>
+                                            </p>
